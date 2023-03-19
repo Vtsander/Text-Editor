@@ -21,10 +21,12 @@
 ## Contributors
  - Veroneca Sander
 ## Challenges
- - 
- - 
+ - Figuring out which webpacks to add
+ - How to code the modules and plugins into the webpack
+ - Repeatedly checking back how to implement asset caching and realizing that the errors were from my misspellings
+ - Issues with the install
 ## Contact Info
  - Github - @Vtsander
  - Email - nguyenveroneca@yahoo.com
 ## Photos of Project
- - <img src="./Assets/.png">
+ - <img src="./Assets/JATE.png">
